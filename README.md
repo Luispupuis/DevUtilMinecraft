@@ -20,7 +20,6 @@ Run the Jar file in the Plugins folder.
 How To (Plugin Developers)
 ------
 * See our API patches [here](patches/api)
-* See upcoming, pending, and recently added API [here](https://github.com/orgs/PaperMC/projects/2/views/4)
 * Paper API javadocs here: [papermc.io/javadocs](https://papermc.io/javadocs/)
 #### Repository (for paper-api)
 ##### Maven
