@@ -4,8 +4,7 @@ The most widely used, high-performance Minecraft server that aims to fix gamepla
 
 
 **Support and Project Discussion:**
-- [Our forums](https://forums.papermc.io/), [Discord](https://discord.gg/papermc), or [IRC](https://webchat.esper.net/?channels=paper)
-
+- [Discord](https://discord.gg/SN38uht4Wg)
 How To (Server Admins)
 ------
 Dev Utils is a jar file that you can download and run and put in the Plugins folder.
