@@ -8,7 +8,7 @@ The most widely used, high-performance Minecraft server that aims to fix gamepla
 
 How To (Server Admins)
 ------
-Paperclip is a jar file that you can download and run just like a normal jar file.
+Dev Utils is a jar file that you can download and run just like a normal jar file.
 
 Download Paper from our [downloads page](https://papermc.io/downloads/paper).
 
