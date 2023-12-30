@@ -8,7 +8,7 @@ The most widely used, high-performance Minecraft server that aims to fix gamepla
 
 How To (Server Admins)
 ------
-Dev Utils is a jar file that you can download and run ad put in the Plugins folder.
+Dev Utils is a jar file that you can download and run and put in the Plugins folder.
 
 Download Paper from our [downloads page](https://papermc.io/downloads/paper).
 
