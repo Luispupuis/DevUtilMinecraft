@@ -10,9 +10,9 @@ How To (Server Admins)
 ------
 Dev Utils is a jar file that you can download and run and put in the Plugins folder.
 
-Download Paper from our [downloads page](https://papermc.io/downloads/paper).
+Download Dev Utils from our [downloads page](https://papermc.io/downloads/paper).
 
-Run the Paperclip jar directly from your server. Just like old times
+Run the Jar file in the Plugins folder.
 
 * Documentation on using Paper: [docs.papermc.io](https://docs.papermc.io)
 * For a sneak peek at upcoming features, [see here](https://github.com/PaperMC/Paper/projects)
