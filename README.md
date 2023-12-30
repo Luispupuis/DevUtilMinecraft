@@ -6,6 +6,7 @@ The most widely used, high-performance Minecraft server that aims to fix gamepla
 **Support and Project Discussion:**
 - [Discord](https://discord.gg/SN38uht4Wg)
 How To (Server Admins)
+
 ------
 Dev Utils is a jar file that you can download and run and put in the Plugins folder.
 
