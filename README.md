@@ -15,7 +15,7 @@ Download Dev Utils from our [downloads page](https://papermc.io/downloads/paper)
 Run the Jar file in the Plugins folder.
 
 * Documentation on using Paper: [docs.papermc.io](https://docs.papermc.io)
-* For a sneak peek at upcoming features, [see here](https://github.com/PaperMC/Paper/projects)
+
 
 How To (Plugin Developers)
 ------
